@@ -37,8 +37,6 @@
 .flaticon-pills:before { content: "\f105"; }
 .flaticon-building:before { content: "\f106"; }
 .flaticon-travel:before { content: url('assets/images/icons/confirmation.jpg') !important; }
-.flaticon-baptism:before 
-{ content: url('/Users/autumneaton/Eternal Families/Eternal Families Project/assets/images/icons/baptism.jpg') !important; }
 .flaticon-location-on-road:before { content: "\f109"; }
 .flaticon-networking:before { content: url('/assets/images/icons/scholarHat.jpg') !important; margin-left: -60px !important;}
 .flaticon-lightbulb-idea:before { content: url('/assets/images/icons/ldsIcon.jpg') !important; margin-left: -30px !important;}
